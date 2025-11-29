@@ -4,6 +4,8 @@ A modern, responsive Hindi news portal built with Next.js 15, TypeScript, and Ta
 
 ![Preview](./preview.png)
 
+🔗 **Live Demo:** [fantastic-bavarois-b05c5c.netlify.app](https://fantastic-bavarois-b05c5c.netlify.app)
+
 ---
 
 ## ✨ Features

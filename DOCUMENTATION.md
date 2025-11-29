@@ -1,5 +1,9 @@
 # Project Documentation
 
+🔗 **Live Demo:** [fantastic-bavarois-b05c5c.netlify.app](https://fantastic-bavarois-b05c5c.netlify.app)
+
+---
+
 ## Part A: Requirements Implementation
 
 ### 1. Layout & Structure
