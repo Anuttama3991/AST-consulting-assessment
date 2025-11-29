@@ -157,6 +157,6 @@ MIT License - See LICENSE file
 
 ---
 
-## 👤 Author
+## 👤 Anuttama3991
 
 Built with ❤️ using Next.js and Tailwind CSS
